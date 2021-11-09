@@ -38,6 +38,11 @@ ul > li {
   margin-left: 37px;
 }
 
+.link {
+  text-decoration: none;
+  color: white;
+}
+
 .banner {
   display: flex;
   justify-content: center;
