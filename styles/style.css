@@ -43,6 +43,10 @@ ul > li {
   color: white;
 }
 
+.link:hover {
+  text-decoration: underline;
+}
+
 .banner {
   display: flex;
   justify-content: center;
